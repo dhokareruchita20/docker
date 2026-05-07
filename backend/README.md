@@ -51,9 +51,3 @@ The application will start and be accessible at:
 
 http://localhost:8080
 
-```shell
-docker run -d -p 80:80 --name frontend frontend:v1
-```
-frontend is the name of container 
-
-You can access the application on http://localhost:80
